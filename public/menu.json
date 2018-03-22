@@ -1,0 +1,44 @@
+[
+		 {
+            "order": 1,
+			"name": "ぶた玉",
+			"netPrice": 700,
+            "discount": 100,
+			"topping": true,
+			"buttonType": "okonomiyaki",
+			"description": "やっぱり一番人気",
+			"subDescription": "やさいたっぷりで、栄養もバツグンです",
+            "image": "okonomiyaki",
+			"thumbnail1": "okonomi-thumb-1",
+			"thumbnail2": "okonomi-pork-thumb",
+			"thumbnail3": "okonomi-thumb-2"
+		},
+		 {
+			"name": "いか玉",
+            "order": 2,
+			"netPrice": 700,
+            "discount": 100,
+			"topping": true,
+			"buttonType": "okonomiyaki",
+			"description": "新鮮なイカがたっぷり",
+			"subDescription": "やさいたっぷりで低カロリーです",
+            "image": "okonomiyaki",
+			"thumbnail1": "okonomi-thumb-1",
+			"thumbnail2": "okonomi-squid-thumb",
+			"thumbnail3": "okonomi-thumb-2"
+		},
+		 {
+			"name": "焼きそば",
+            "order": 3,
+			"netPrice": 700,
+            "discount": 100,
+			"topping": true,
+			"buttonType": "yakisoba",
+			"description": "ソースはゆきオリジナル",
+			"subDescription": "具がたっぷり入った",
+            "image": "yakisoba",
+			"thumbnail1": "yakisoba-thumb-1",
+			"thumbnail2": "yakisoba-thumb-2",
+			"thumbnail3": "yakisoba-thumb-3"
+		}
+]
